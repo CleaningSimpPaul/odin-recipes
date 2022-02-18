@@ -1,0 +1,32 @@
+
+body{
+    margin-left: 15%;
+    margin-right: 52%;
+    background-color: rgba(231, 169, 228, 0.301);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+img{
+    display: block;
+    height: auto;
+    width: 600px;
+}
+
+.recipe{
+    border: solid rgba(148, 208, 231, 0.753);
+    padding: 15px;
+    margin-left: 3%;
+    margin-right: 15%;
+    background-color: rgba(228, 176, 225, 0.267);
+}
+
+h4{
+    font-weight: bold;
+    color: rgba(182, 92, 177, 0.884)
+}
+
+h1{
+    font-family: "Lucida Console", Monaco, monospace;
+}
